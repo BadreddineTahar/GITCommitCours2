@@ -1,0 +1,115 @@
+
+
+
+
+#BLOC0{ margin : 50px auto; 
+          widtH: 70%;
+}
+
+#contenu { 
+    background-coloR: #59BBE8;
+    padding: 10px ;box-shadow: 12px 12px 12px #aaa;
+}
+
+#BORDURE{
+	  bordeR :8px solid black;
+}
+#bloc2 { background-color: #59BBE8; 
+         height : 200px;
+		width:100%;  }
+
+	 
+#bloc1 { background-coloR: #191919;
+        heighT : 100%;
+		 widtH:100%; 
+		 }
+		 
+
+#bloc3 { height : 150px;
+		width:60%;
+		 floaT: left		
+			 }
+#bloc5 { height : 200px;
+		 width:50%;  
+		 float: left;
+		 }	
+#Nom {  height : 100px;
+		 width:50%;
+		 float: right;
+		  margin-top: 20px;
+		 } 
+	 
+			 
+#atout {  height : 130px;
+		 width:40%;	
+		floaT: right;		  
+		 }
+
+
+#info {height : 100%;
+		 width:22%;
+		float: left;
+		 padding-top: 120PX
+		}
+		  
+#bloc8{ background-color : #FFFFFF;
+		 widtH:78%;
+		 float: left ;
+        height : 100%;
+		
+		 } 
+
+		 
+ 	#CV {FLOAT: LEFT;
+	     background-coloR : #191919;
+		width: 100%}	
+		
+    #exp{ 
+		 width:100%;
+		 }
+    #formation{ 
+		     WIDTH: 100%;;
+		 }		 
+    #compet{ 
+		     WIDTH: 100%;
+		 }		
+    #interet{ 
+		    WIDTH: 100%;	
+		 }
+
+
+
+
+
+#info li {
+    line-height: 24px;
+    border-bottom: 1px solid #59BBE8;
+	list-style: none;
+}
+
+		 
+body {
+    font-family: Georgia;
+    color: #7F8484;
+}
+p {
+  
+    text-align: center;
+}
+ h1 { COLOR: #1A1A1A ;
+    font-size: 48px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+#CV H1 {color : #59BBE8 }
+#bloc2 h2 {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-style: italic;
+	color: #291908
+}		 
+#bloc8 H2 { border-bottom: 2px solid #59BBE8; 
+           color: #59BBE8; 
+		   background-color:#191919}		
+
+		 
